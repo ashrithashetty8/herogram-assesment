@@ -1,0 +1,34 @@
+{
+  "name": "herogram-assesment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "bcrypt": "^6.0.0",
+    "compression": "^1.8.0",
+    "connect-timeout": "^1.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.1",
+    "helmet": "^8.1.0",
+    "http-status": "^2.1.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.9",
+    "openai": "^4.103.0",
+    "passport": "^0.7.0",
+    "sequelize": "^6.37.6",
+    "socket.io": "^4.8.1",
+    "sqlite3": "^5.1.7",
+    "winston": "^3.17.0"
+  }
+}
